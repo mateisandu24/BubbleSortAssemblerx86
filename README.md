@@ -1,4 +1,3 @@
-## 📘 `README.md` – **English**
 
 ```markdown
 # Bubble Sort in Assembly (x86 - MASM)
